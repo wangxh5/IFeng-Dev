@@ -1,0 +1,12 @@
+10.90.11.30     newsclient.dataanalysis.hadoop30v11.syq newsclient.dataanalysis.hadoop30v11.syq.cdn.ifengidc.com
+10.90.11.31     newsclient.dataanalysis.hadoop31v11.syq newsclient.dataanalysis.hadoop31v11.syq.cdn.ifengidc.com
+10.90.11.33     newsclient.dataanalysis.hadoop33v11.syq newsclient.dataanalysis.hadoop33v11.syq.cdn.ifengidc.com
+10.90.11.34     newsclient.dataanalysis.hadoop34v11.syq newsclient.dataanalysis.hadoop34v11.syq.cdn.ifengidc.com
+10.90.11.35     newsclient.dataanalysis.hadoop35v11.syq newsclient.dataanalysis.hadoop35v11.syq.cdn.ifengidc.com
+10.90.11.36     newsclient.dataanalysis.hadoop36v11.syq newsclient.dataanalysis.hadoop36v11.syq.cdn.ifengidc.com
+10.90.11.37     newsclient.dataanalysis.hadoop37v11.syq newsclient.dataanalysis.hadoop37v11.syq.cdn.ifengidc.com
+10.90.11.38     newsclient.dataanalysis.hadoop38v11.syq newsclient.dataanalysis.hadoop38v11.syq.cdn.ifengidc.com
+10.90.11.39     newsclient.dataanalysis.hadoop39v11.syq newsclient.dataanalysis.hadoop39v11.syq.cdn.ifengidc.com
+10.90.11.40     newsclient.dataanalysis.hadoop40v11.syq newsclient.dataanalysis.hadoop40v11.syq.cdn.ifengidc.com
+10.90.11.60     newsclient.dataanalysis.hadoopm60v11.syq newsclient.dataanalysis.hadoopm60v11.syq.cdn.ifengidc.com
+10.90.11.105    newsclient.dataanalysis.hadoopm105v11.syq newsclient.dataanalysis.hadoopm105v11.syq.cdn.ifengidc.com
